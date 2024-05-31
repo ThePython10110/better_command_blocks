@@ -1,0 +1,10 @@
+{
+    "Lua.workspace.library": [
+        "/home/nolan/.config/Code/User/globalStorage/sumneko.lua/addonManager/addons/minetest/module/library"
+    ],
+    "Lua.diagnostics.disable": [
+        "undefined-field",
+        "cast-local-type"
+    ],
+    "Lua.workspace.checkThirdParty": false
+}

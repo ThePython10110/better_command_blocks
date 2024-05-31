@@ -6,3 +6,6 @@ To use the command blocks, you must have the `better_command_blocks` priv.
 ## License:
 * Code: Licensed under MIT
 * Textures: Created by me, inspired by ACOVG's (and various ACOVG texture packs that I considered using instead), and licensed under CC-BY-SA-4.0
+
+## Known issues:
+1. If a command block is about to run a command after a delay, and it is dug before the delay is over, it will still run.
