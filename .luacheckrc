@@ -1,7 +1,7 @@
 read_globals = {
     "DIR_DELIM", "INIT",
 
-    "minetest", "core",
+    "core", "core",
     "dump", "dump2",
 
     "Raycast",
